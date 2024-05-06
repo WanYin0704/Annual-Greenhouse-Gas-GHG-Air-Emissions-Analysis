@@ -17,4 +17,6 @@ Our project endeavors to analyze datasets sourced from the [International Moneta
 6. Can we classify countries into different groups or clusters and observe patterns in their greenhouse gas emissions over the years, using clustering algorithms?
 7. Can machine learning classify emissions patterns for different gas types?
 
-By employing a comprehensive methodology that included exploratory data analysis, statistical approaches, and sophisticated machine learning models, our project produced valuable insights regarding greenhouse gas (GHG) emissions. We have discovered important information via in-depth investigation and analysis that advances our knowledge of the dynamics of greenhouse gas emissions and possible mitigation tactics. For a detailed overview of our project and findings, feel free to refer to our [presentation video](https://youtu.be/A24z2U8N5kE).
+By employing a comprehensive methodology that included exploratory data analysis, statistical approaches, and sophisticated machine learning models, our project produced valuable insights regarding greenhouse gas (GHG) emissions. We have discovered important information via in-depth investigation and analysis that advances our knowledge of the dynamics of greenhouse gas emissions and possible mitigation tactics.
+
+For a detailed overview of our project and findings, feel free to refer to our [presentation video](https://youtu.be/A24z2U8N5kE).
